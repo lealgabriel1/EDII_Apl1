@@ -1,0 +1,20 @@
+APL1 - ÁRVORE BINÁRIA DE EXPRESSÃO ARITMETICA
+ESTRUTURA DE DADOS II
+
+ALUNO: GABRIEL LEAL LEONE
+TURMA: 04N11
+TIA: 32249659
+RA: 10402494
+
+
+LINK DO YOUTUBE: <https://youtu.be/IUVxZtQzSpM>
+
+REFÊRENCIAS:
+
+1. <https://en.wikipedia.org/wiki/Shunting_yard_algorithm>
+2. <https://www.guj.com.br/t/conversao-calculo-de-infixa-para-posfixa-ajuda-por-favor/44705/8>
+3. <https://github.com/Guillhermegpp/Arvore-Binaria-JAVA/tree/master/Arvore>
+4. <https://www.geeksforgeeks.org/java-program-to-implement-shunting-yard-algorithm/>
+5. <https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/>
+6. <https://algs4.cs.princeton.edu/32bst/BST.java.html>
+7. <https://www.geeksforgeeks.org/expression-tree/>
